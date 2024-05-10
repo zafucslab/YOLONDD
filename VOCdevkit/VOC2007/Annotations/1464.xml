@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>1464.jpg</filename>
+	<path>D:\虫害\jpg\1464.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tobacco_budworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>37</ymin>
+			<xmax>211</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

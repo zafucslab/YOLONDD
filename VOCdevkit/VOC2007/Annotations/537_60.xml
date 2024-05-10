@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>537_60.jpg</filename>
+	<path>D:\&#34411;&#23475;\jpg\537.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>232</xmin>
+			<ymin>220</ymin>
+			<xmax>283</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>145</xmin>
+			<ymin>145</ymin>
+			<xmax>249</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

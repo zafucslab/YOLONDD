@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>534_60.jpg</filename>
+	<path>D:\&#34411;&#23475;\jpg\534.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>528</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>239</xmin>
+			<ymin>199</ymin>
+			<xmax>430</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

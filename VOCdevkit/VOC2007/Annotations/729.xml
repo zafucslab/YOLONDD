@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>729.jpg</filename>
+	<path>D:\虫害\jpg\729.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>256</ymin>
+			<xmax>353</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

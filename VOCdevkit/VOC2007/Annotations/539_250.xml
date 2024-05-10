@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>539_250.jpg</filename>
+	<path>D:\&#34411;&#23475;\jpg\539.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>161</xmin>
+			<ymin>91</ymin>
+			<xmax>226</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>116</xmin>
+			<ymin>206</ymin>
+			<xmax>163</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

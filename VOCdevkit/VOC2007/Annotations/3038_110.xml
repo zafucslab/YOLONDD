@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>3038_110.jpg</filename>
+	<path>D:\&#34411;&#23475;\jpg\3038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>466</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>57</xmin>
+			<ymin>99</ymin>
+			<xmax>465</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

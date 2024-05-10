@@ -1,0 +1,74 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>172_120.jpeg</filename>
+	<path>D:\&#34411;&#23475;\jpg\172.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>199</xmin>
+			<ymin>211</ymin>
+			<xmax>241</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>138</xmin>
+			<ymin>273</ymin>
+			<xmax>159</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>144</xmin>
+			<ymin>92</ymin>
+			<xmax>221</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>184</xmin>
+			<ymin>69</ymin>
+			<xmax>232</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>150</xmin>
+			<ymin>30</ymin>
+			<xmax>183</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>

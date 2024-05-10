@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>223_60.JPG</filename>
+	<path>D:\&#34411;&#23475;\jpg\223.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>141</xmin>
+			<ymin>134</ymin>
+			<xmax>211</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

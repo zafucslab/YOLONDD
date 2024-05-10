@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>130_210.jpeg</filename>
+	<path>D:\&#34411;&#23475;\jpg\130.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>95</xmin>
+			<ymin>62</ymin>
+			<xmax>252</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

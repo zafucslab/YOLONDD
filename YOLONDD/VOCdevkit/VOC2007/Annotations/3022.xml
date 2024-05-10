@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>3022.jpg</filename>
+	<path>D:\虫害\jpg\3022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_spider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>42</ymin>
+			<xmax>204</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

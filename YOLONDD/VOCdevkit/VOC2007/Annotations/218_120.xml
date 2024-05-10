@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>218_120.JPG</filename>
+	<path>D:\&#34411;&#23475;\jpg\218.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>159</xmin>
+			<ymin>169</ymin>
+			<xmax>177</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>liriomyza</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>44</xmin>
+			<ymin>102</ymin>
+			<xmax>154</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

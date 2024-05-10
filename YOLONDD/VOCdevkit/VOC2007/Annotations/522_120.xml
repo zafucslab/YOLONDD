@@ -1,0 +1,62 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>522_120.jpg</filename>
+	<path>D:\&#34411;&#23475;\jpg\522.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>381</xmin>
+			<ymin>500</ymin>
+			<xmax>412</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>367</xmin>
+			<ymin>407</ymin>
+			<xmax>398</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>345</xmin>
+			<ymin>365</ymin>
+			<xmax>368</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>236</xmin>
+			<ymin>388</ymin>
+			<xmax>267</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
